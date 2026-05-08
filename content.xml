@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605081254445PFALB</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508125444QTSU1I</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mapas con alma: La ruta literaria.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Ángela Ruiz Matas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje para 1º de Bachillerato donde el alumnado diseña un mapa interactivo geolocalizando hitos literarios mediante herramientas digitales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778237649897</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mowss823-gli1iu029</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Mapas con alma: LA RUTA LITERARIA.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mapas con alma: LA RUTA LITERARIA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mapas con alma: LA RUTA LITERARIA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowss823-gli1iu029</odePageId>
+      <odeBlockId>20260508085512MPQQID</odeBlockId>
+      <blockName>COMENZANDO NUESTRO PROYECTO: La ruta literaria.</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowss823-gli1iu029</odePageId>
+          <odeBlockId>20260508085512MPQQID</odeBlockId>
+          <odeIdeviceId>202605071107177789VX</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Y si los libros no solo se leyeran, sino que se pudieran recorrer?</p>
+<p>Te damos la bienvenida a este desafío donde la literatura sale del papel para conquistar el mapa. No vas a hacer un trabajo escolar al uso: vas a convertirte en cartógrafo/a literario. Tu misión es rastrear las huellas de los grandes autores, geolocalizar sus emociones y diseñar una experiencia interactiva que permita a cualquier persona viajar a través de los textos.</p>
+<p>Investiga, diseña y comparte. El mapa está en blanco y la brújula son tus palabras. ¿Empezamos el viaje?</p>
+<p> <img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p>Elaboración propia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" id="link_0">CC BY-SA 4.0</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605071107177789VX","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Y si los libros no solo se leyeran, sino que se pudieran recorrer?</p>\n<p>Te damos la bienvenida a este desafío donde la literatura sale del papel para conquistar el mapa. No vas a hacer un trabajo escolar al uso: vas a convertirte en cartógrafo/a literario. Tu misión es rastrear las huellas de los grandes autores, geolocalizar sus emociones y diseñar una experiencia interactiva que permita a cualquier persona viajar a través de los textos.</p>\n<p>Investiga, diseña y comparte. El mapa está en blanco y la brújula son tus palabras. ¿Empezamos el viaje?</p>\n<p> <img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p>Elaboración propia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" id=\"link_0\">CC BY-SA 4.0</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowss826-xeo9l7pfn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenido</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowss826-xeo9l7pfn</odePageId>
+      <odeBlockId>20260508085512RUMHGL</odeBlockId>
+      <blockName>Vuestro Centro de Mandos: El Muro de Curación</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowss826-xeo9l7pfn</odePageId>
+          <odeBlockId>20260508085512RUMHGL</odeBlockId>
+          <odeIdeviceId>20260507135625204MBM</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Antes de sumergirnos en la labor de cartografía literaria que nos espera, os presento vuestro centro de mandos.</p>
+<p>Para que no os perdáis en este viaje, aquí tenéis el enlace a nuestro Muro de Curación (Padlet). En este espacio encontraréis vuestros muros personalizados, organizados por secciones para que tengáis a mano toda la información necesaria: desde las fuentes para investigar los hitos literarios hasta el material de apoyo para vuestro producto final.</p>
+<p><a href="https://padlet.com/aruimat938/recursos-proyecto-rutas-literarias-interactivas-d6131z9i2yh63xoy" id="link_2">ENLACE DEL PADLET&nbsp;</a></p>
+<p>Recordad que este muro es vuestra brújula digital. Consultadlo a menudo para aseguraros de que vuestro mapa interactivo tiene el rigor y la calidad que buscamos. ¡El mapa está en vuestras manos!</p>
+<p><img src="{{context_path}}/content/resources/20260507135625204MBM/Captura_de_pantalla_2026-05-07_a_las_15.03.45.png" width="1470" height="800" alt=""></p>
+<p>Elaboración propia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" id="link_11">CC BY-SA 4.0</a></p>
+<p></p>
+<p>Con respecto a la curación de contenidos docentes, para facilitar vuestra labor de investigación he diseñado un Webmix en Symbaloo. Se trata de un tablero interactivo donde he seleccionado y organizado los recursos digitales adecuados para este proyecto. <a href="https://www.symbaloo.com/shared/AAAAAcaNJ-MAA41-5ERz8g==" id="link_14">ACCEDER AL SYMBALOO</a></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260507135625204MBM","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de sumergirnos en la labor de cartografía literaria que nos espera, os presento vuestro centro de mandos.</p>\n<p>Para que no os perdáis en este viaje, aquí tenéis el enlace a nuestro Muro de Curación (Padlet). En este espacio encontraréis vuestros muros personalizados, organizados por secciones para que tengáis a mano toda la información necesaria: desde las fuentes para investigar los hitos literarios hasta el material de apoyo para vuestro producto final.</p>\n<p><a href=\"https://padlet.com/aruimat938/recursos-proyecto-rutas-literarias-interactivas-d6131z9i2yh63xoy\" id=\"link_2\">ENLACE DEL PADLET </a></p>\n<p>Recordad que este muro es vuestra brújula digital. Consultadlo a menudo para aseguraros de que vuestro mapa interactivo tiene el rigor y la calidad que buscamos. ¡El mapa está en vuestras manos!</p>\n<p><img src=\"{{context_path}}/content/resources/20260507135625204MBM/Captura_de_pantalla_2026-05-07_a_las_15.03.45.png\" width=\"1470\" height=\"800\" alt=\"\" /></p>\n<p>Elaboración propia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" id=\"link_11\">CC BY-SA 4.0</a></p>\n<p></p>\n<p>Con respecto a la curación de contenidos docentes, para facilitar vuestra labor de investigación he diseñado un Webmix en Symbaloo. Se trata de un tablero interactivo donde he seleccionado y organizado los recursos digitales adecuados para este proyecto. <a href=\"https://www.symbaloo.com/shared/AAAAAcaNJ-MAA41-5ERz8g==\" id=\"link_14\">ACCEDER AL SYMBALOO</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowss826-vmap0iy0v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del producto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del producto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del producto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowss826-vmap0iy0v</odePageId>
+      <odeBlockId>20260508085512WKMKTS</odeBlockId>
+      <blockName>¿Preparados para el reto de producción?</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowss826-vmap0iy0v</odePageId>
+          <odeBlockId>20260508085512WKMKTS</odeBlockId>
+          <odeIdeviceId>20260507192305120XCX</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ya conocemos las peripecias de los grandes itinerantes de nuestras letras: El Cid Campeador, Don Quijote de la Mancha, Lázaro de Tormes y otros muchos. Pero, ahora, el libro se nos queda pequeño y debemos convertirnos en exploradores de escenarios reales.</p>
+<p>¿Por qué os pedimos este salto al mapa? La respuesta es clara: porque la literatura es un viaje que se vive con los cinco sentidos. Vuestra tarea será reconstruir paso a paso esos caminos históricos, integrando vuestras propias voces y hallazgos en una Ruta Literaria que sirva de puente entre el pasado y el presente.</p>
+<p>Para visualizar todos estos elementos y entender qué se espera de vuestro equipo, podéis explorar la presentación completa de nuestro producto <a href="https://view.genially.com/69fcb6fcabb374e16bcb9abf" id="link_12">AQUÍ</a>.</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" /></p>
+<p>Elaboración propia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" id="link_13">CC BY-SA 4.0</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260507192305120XCX","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ya conocemos las peripecias de los grandes itinerantes de nuestras letras: El Cid Campeador, Don Quijote de la Mancha, Lázaro de Tormes y otros muchos. Pero, ahora, el libro se nos queda pequeño y debemos convertirnos en exploradores de escenarios reales.</p>\n<p>¿Por qué os pedimos este salto al mapa? La respuesta es clara: porque la literatura es un viaje que se vive con los cinco sentidos. Vuestra tarea será reconstruir paso a paso esos caminos históricos, integrando vuestras propias voces y hallazgos en una Ruta Literaria que sirva de puente entre el pasado y el presente.</p>\n<p>Para visualizar todos estos elementos y entender qué se espera de vuestro equipo, podéis explorar la presentación completa de nuestro producto <a href=\"https://view.genially.com/69fcb6fcabb374e16bcb9abf\" id=\"link_12\">AQUÍ</a>.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" /></p>\n<p>Elaboración propia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" id=\"link_13\">CC BY-SA 4.0</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowss827-oaaej3g2d</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica docente</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowss827-oaaej3g2d</odePageId>
+      <odeBlockId>20260508085512IVZIYA</odeBlockId>
+      <blockName>Guía didáctica docente</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowss827-oaaej3g2d</odePageId>
+          <odeBlockId>20260508085512IVZIYA</odeBlockId>
+          <odeIdeviceId>20260507111527572HGA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Este apartado contiene la documentación técnica y curricular que sustenta el proyecto "Mapas con alma: La Ruta Literaria".</p>
+<p>La guía está diseñada para ofrecer una visión global de la planificación, facilitando su consulta o replicabilidad por parte de otros docentes. En ella se detallan los objetivos de aprendizaje, la vinculación con los criterios de evaluación del currículo de 1º de Bachillerato y las estrategias de inclusión (DUA) que garantizan que todo el alumnado pueda alcanzar los retos planteados.</p>
+<p>Contenidos de la guía:</p>
+<ul>
+<li>Fundamentación Curricular: Relación de tareas con los criterios de evaluación 3.1, 5.1 y 6.1.</li>
+<li>Secuenciación: Organización cronológica de las 4 sesiones de trabajo.</li>
+<li>Metodología: Aplicación del aprendizaje basado en proyectos (ABP) y uso de herramientas digitales.</li>
+<li>Atención a la diversidad: Pautas para el tratamiento de variables individuales y emocionales.</li>
+</ul>
+<p><br></p>
+<p>Se adjunta <a href="file:///Users/angelaruizmatas/Downloads/Guía%20Didáctica%20Docente.pdf" id="link_1" title="">aquí</a> el PDF correspondiente a la Guía Didáctica.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260507111527572HGA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este apartado contiene la documentación técnica y curricular que sustenta el proyecto \"Mapas con alma: La Ruta Literaria\".</p>\n<p>La guía está diseñada para ofrecer una visión global de la planificación, facilitando su consulta o replicabilidad por parte de otros docentes. En ella se detallan los objetivos de aprendizaje, la vinculación con los criterios de evaluación del currículo de 1º de Bachillerato y las estrategias de inclusión (DUA) que garantizan que todo el alumnado pueda alcanzar los retos planteados.</p>\n<p>Contenidos de la guía:</p>\n<ul>\n<li>Fundamentación Curricular: Relación de tareas con los criterios de evaluación 3.1, 5.1 y 6.1.</li>\n<li>Secuenciación: Organización cronológica de las 4 sesiones de trabajo.</li>\n<li>Metodología: Aplicación del aprendizaje basado en proyectos (ABP) y uso de herramientas digitales.</li>\n<li>Atención a la diversidad: Pautas para el tratamiento de variables individuales y emocionales.</li>\n</ul>\n<p><br /></p>\n<p>Se adjunta <a href=\"file:///Users/angelaruizmatas/Downloads/Guía%20Didáctica%20Docente.pdf\" id=\"link_1\" title=\"\">aquí</a> el PDF correspondiente a la Guía Didáctica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowss827-sdo0lzk9e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea del tiempo</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea del tiempo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea del tiempo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowss827-sdo0lzk9e</odePageId>
+      <odeBlockId>20260508085512DPYWYX</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowss827-sdo0lzk9e</odePageId>
+          <odeBlockId>20260508085512DPYWYX</odeBlockId>
+          <odeIdeviceId>20260507141649116GF0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Organizad vuestra expedición!</p>
+<p>Antes de lanzarnos a cartografiar los hitos literarios, es fundamental que conozcáis el itinerario que vamos a seguir. El éxito de vuestro proyecto depende de una buena gestión del tiempo y del trabajo en equipo.</p>
+<p>Para que sepáis en todo momento qué, cómo y cuándo vamos a desarrollar cada tarea, os presento nuestra Hoja de Ruta (Línea del tiempo). En ella veréis la secuencia de las 4 sesiones de trabajo, desde la investigación inicial hasta la gala de presentación del producto final.</p>
+<p>Podéis consultar la línea temporal en la imagen de abajo o acceder directamente a la versión interactiva a través del enlace: <a href="https://canva.link/uas6n76zgthu8xn" id="link_3">LÍNEA DEL TIEMPO</a></p>
+<p>Os recomiendo tener este cronograma siempre presente para organizar vuestras entregas y aseguraros de que no os dejáis ningún hito literario por el camino. ¡La organización es la clave del éxito!</p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" /></p>
+<p>Elaboración propia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" id="link_4">CC BY-SA 4.0</a></p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260507141649116GF0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Organizad vuestra expedición!</p>\n<p>Antes de lanzarnos a cartografiar los hitos literarios, es fundamental que conozcáis el itinerario que vamos a seguir. El éxito de vuestro proyecto depende de una buena gestión del tiempo y del trabajo en equipo.</p>\n<p>Para que sepáis en todo momento qué, cómo y cuándo vamos a desarrollar cada tarea, os presento nuestra Hoja de Ruta (Línea del tiempo). En ella veréis la secuencia de las 4 sesiones de trabajo, desde la investigación inicial hasta la gala de presentación del producto final.</p>\n<p>Podéis consultar la línea temporal en la imagen de abajo o acceder directamente a la versión interactiva a través del enlace: <a href=\"https://canva.link/uas6n76zgthu8xn\" id=\"link_3\">LÍNEA DEL TIEMPO</a></p>\n<p>Os recomiendo tener este cronograma siempre presente para organizar vuestras entregas y aseguraros de que no os dejáis ningún hito literario por el camino. ¡La organización es la clave del éxito!</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" /></p>\n<p>Elaboración propia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" id=\"link_4\">CC BY-SA 4.0</a></p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowss828-mz59z2sfo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad y licencias</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y licencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y licencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowss828-mz59z2sfo</odePageId>
+      <odeBlockId>20260508085512UGHDVM</odeBlockId>
+      <blockName>¡Proteged vuestro legado digital!</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowss828-mz59z2sfo</odePageId>
+          <odeBlockId>20260508085512UGHDVM</odeBlockId>
+          <odeIdeviceId>20260507142952456Q9R</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Puede pareceros extraño dedicar tiempo a explicar cómo trabajar en la red cuando la mayoría vivís conectados a ella. Sin embargo, en el mundo de la investigación literaria, no todo lo que brilla en la pantalla es oro. Al igual que los autores protegían sus manuscritos, nosotros debemos aprender a navegar con seguridad y ética.</p>
+<p>En este proyecto, aprenderemos dos elementos básicos para ser ciudadanos digitales responsables:</p>
+<ul style="list-style-type: circle;">
+<li>Privacidad y Protección de Datos: Al utilizar herramientas como Genially, Padlet o Vocaroo, debemos ser cautos con la información personal que compartimos. Tras la pantalla, vuestra identidad es vuestro bien más valioso; aprended a protegerla.</li>
+<li>Rigor y Ética Intelectual: En la era de las fake news y el "copia-pega", seleccionar fuentes fiables es un superpoder. No todas las webs literarias tienen el mismo valor. Por eso, aprenderemos a citar correctamente y a usar licencias Creative Commons, respetando el trabajo de los demás para que el nuestro también sea respetado.</li>
+</ul>
+<p>Recordad que las fuentes seguras y el material de apoyo están centralizados en nuestro Padlet. Yo estaré supervisando vuestra navegación en todo momento para resolver cualquier duda.</p>
+<p>Aquí os dejo una guía visual con los consejos esenciales para gestionar vuestras licencias y seguridad durante el proyecto: <a href="https://canva.link/vny4evtspbih1m3" id="link_5">INFOGRAFÍA</a></p>
+<p><img src="{{context_path}}/content/resources/mceclip7.jpg" /></p>
+<p>Elaboración propia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" id="link_6">CC BY-SA 4.0</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260507142952456Q9R","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Puede pareceros extraño dedicar tiempo a explicar cómo trabajar en la red cuando la mayoría vivís conectados a ella. Sin embargo, en el mundo de la investigación literaria, no todo lo que brilla en la pantalla es oro. Al igual que los autores protegían sus manuscritos, nosotros debemos aprender a navegar con seguridad y ética.</p>\n<p>En este proyecto, aprenderemos dos elementos básicos para ser ciudadanos digitales responsables:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Privacidad y Protección de Datos: Al utilizar herramientas como Genially, Padlet o Vocaroo, debemos ser cautos con la información personal que compartimos. Tras la pantalla, vuestra identidad es vuestro bien más valioso; aprended a protegerla.</li>\n<li>Rigor y Ética Intelectual: En la era de las fake news y el \"copia-pega\", seleccionar fuentes fiables es un superpoder. No todas las webs literarias tienen el mismo valor. Por eso, aprenderemos a citar correctamente y a usar licencias Creative Commons, respetando el trabajo de los demás para que el nuestro también sea respetado.</li>\n</ul>\n<p>Recordad que las fuentes seguras y el material de apoyo están centralizados en nuestro Padlet. Yo estaré supervisando vuestra navegación en todo momento para resolver cualquier duda.</p>\n<p>Aquí os dejo una guía visual con los consejos esenciales para gestionar vuestras licencias y seguridad durante el proyecto: <a href=\"https://canva.link/vny4evtspbih1m3\" id=\"link_5\">INFOGRAFÍA</a></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip7.jpg\" /></p>\n<p>Elaboración propia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" id=\"link_6\">CC BY-SA 4.0</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowss828-gw3ytcwnz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowss828-gw3ytcwnz</odePageId>
+      <odeBlockId>20260508085512VEEGDO</odeBlockId>
+      <blockName>¿Cómo se evalúa este proyecto?</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowss828-gw3ytcwnz</odePageId>
+          <odeBlockId>20260508085512VEEGDO</odeBlockId>
+          <odeIdeviceId>20260507144105943KHL</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una pregunta recurrente en nuestras sesiones es: "¿Y esto para qué sirve?" o la clásica "¿Cuenta para nota?". La respuesta es sencilla: todo vuestro proceso de investigación, el diseño del mapa y la calidad de vuestra oratoria son las evidencias de vuestro aprendizaje. Para que tengáis una visión clara y transparente de qué se va a valorar, he diseñado un documento informativo.</p>
+<p>Para tener la visión completa de los instrumentos de evaluación, la obtención de datos y el tratamiento de las variables, podéis acceder al documento oficial del proyecto aquí: <a href="https://canva.link/xjvq08yqdvlbvk1" id="link_7">DOCUMENTO SOBRE EVALUACIÓN.</a></p>
+<p>Además, para que las tengáis siempre a mano durante el trabajo en clase, aquí debajo podéis consultar las rúbricas y dianas de evaluación que utilizaremos para calificar el producto final y vuestra capacidad de colaboración:</p>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" /></p>
+<p>Elaboración propia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" id="link_10">CC BY-SA 4.0</a></p>
+<p><img src="{{context_path}}/content/resources/mceclip5.png" /></p>
+<p>Elaboración propia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" id="link_8">CC BY-SA 4.0</a></p>
+<p><img src="{{context_path}}/content/resources/mceclip6.png" /></p>
+<p>Elaboración propia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" id="link_9">CC BY-SA 4.0</a></p>
+<p><br /></p>
+<p><strong>Recuerda: la evaluación no es solo una nota final, es el mapa que guía vuestra mejora sesión a sesión.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260507144105943KHL","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una pregunta recurrente en nuestras sesiones es: \"¿Y esto para qué sirve?\" o la clásica \"¿Cuenta para nota?\". La respuesta es sencilla: todo vuestro proceso de investigación, el diseño del mapa y la calidad de vuestra oratoria son las evidencias de vuestro aprendizaje. Para que tengáis una visión clara y transparente de qué se va a valorar, he diseñado un documento informativo.</p>\n<p>Para tener la visión completa de los instrumentos de evaluación, la obtención de datos y el tratamiento de las variables, podéis acceder al documento oficial del proyecto aquí: <a href=\"https://canva.link/xjvq08yqdvlbvk1\" id=\"link_7\">DOCUMENTO SOBRE EVALUACIÓN.</a></p>\n<p>Además, para que las tengáis siempre a mano durante el trabajo en clase, aquí debajo podéis consultar las rúbricas y dianas de evaluación que utilizaremos para calificar el producto final y vuestra capacidad de colaboración:</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" /></p>\n<p>Elaboración propia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" id=\"link_10\">CC BY-SA 4.0</a></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip5.png\" /></p>\n<p>Elaboración propia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" id=\"link_8\">CC BY-SA 4.0</a></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip6.png\" /></p>\n<p>Elaboración propia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" id=\"link_9\">CC BY-SA 4.0</a></p>\n<p><br /></p>\n<p><strong>Recuerda: la evaluación no es solo una nota final, es el mapa que guía vuestra mejora sesión a sesión.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowss828-h0tunt1bd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DUA y Diversidad</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA y Diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DUA y Diversidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowss828-h0tunt1bd</odePageId>
+      <odeBlockId>20260508085512VNVYYE</odeBlockId>
+      <blockName>Inclusión y atención a la diversidad</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowss828-h0tunt1bd</odePageId>
+          <odeBlockId>20260508085512VNVYYE</odeBlockId>
+          <odeIdeviceId>20260507194118698TGJ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Nuestro proyecto se va diseñar siguiendo las pautas del Diseño Universal para el Aprendizaje (DUA) para garantizar que todo el alumnado, independientemente de sus capacidades o estilos de aprendizaje, pueda alcanzar los objetivos:</p>
+<ul>
+<li>Múltiples formas de representación: La información se presenta en diversos formatos: textos literarios, mapas visuales (Genially), audios (Vocaroo) e imágenes cinematográficas (IA).</li>
+<li>Múltiples formas de acción y expresión: El alumnado no solo escribe; graba podcasts, diseña rutas interactivas y realiza curación de contenidos, permitiendo diferentes vías para demostrar lo aprendido.</li>
+<li>Múltiples formas de implicación: El trabajo en triadas cooperativas y la temática basada en "misiones" y "viajes" fomenta la motivación y la autonomía (Autorregulación).</li>
+<li>Accesibilidad: Se han diseñado recursos sencillos e intuitivos con una jerarquía visual clara, iconos intuitivos y fuentes de alta legibilidad para evitar la sobrecarga cognitiva. Además, se incluirían audios narrativos en las paradas literarias para garantizar que el contenido fuese accesible para alumnos con dificultades de comprensión lectora o discapacidad visual si fuese necesario.</li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260507194118698TGJ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestro proyecto se va diseñar siguiendo las pautas del Diseño Universal para el Aprendizaje (DUA) para garantizar que todo el alumnado, independientemente de sus capacidades o estilos de aprendizaje, pueda alcanzar los objetivos:</p>\n<ul>\n<li>Múltiples formas de representación: La información se presenta en diversos formatos: textos literarios, mapas visuales (Genially), audios (Vocaroo) e imágenes cinematográficas (IA).</li>\n<li>Múltiples formas de acción y expresión: El alumnado no solo escribe; graba podcasts, diseña rutas interactivas y realiza curación de contenidos, permitiendo diferentes vías para demostrar lo aprendido.</li>\n<li>Múltiples formas de implicación: El trabajo en triadas cooperativas y la temática basada en \"misiones\" y \"viajes\" fomenta la motivación y la autonomía (Autorregulación).</li>\n<li>Accesibilidad: Se han diseñado recursos sencillos e intuitivos con una jerarquía visual clara, iconos intuitivos y fuentes de alta legibilidad para evitar la sobrecarga cognitiva. Además, se incluirían audios narrativos en las paradas literarias para garantizar que el contenido fuese accesible para alumnos con dificultades de comprensión lectora o discapacidad visual si fuese necesario.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mowss829-104t0ssky</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mowss829-104t0ssky</odePageId>
+      <odeBlockId>20260508085512AVJZUL</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mowss829-104t0ssky</odePageId>
+          <odeBlockId>20260508085512AVJZUL</odeBlockId>
+          <odeIdeviceId>20260507105816480006</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Mapas con alma: La ruta literaria.</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje para 1º de Bachillerato donde el alumnado diseña un mapa interactivo geolocalizando hitos literarios mediante herramientas digitales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ángela Ruiz Matas</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">-</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
